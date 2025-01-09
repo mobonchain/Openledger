@@ -15,7 +15,7 @@
 
 ### 1. Đăng Ký Tài Khoản **[OpenLedger](https://testnet.openledger.xyz/?referral_code=vlxbwovzpi)** với tài khoản **Google**.
 
-### 2. Mở VPS lên và nhập lệnh sau để tải và cài đặt OpenLedger Node:
+### 2. Mở VPS lên và nhập lệnh sau để tải Docker và mở Port 3389 trong Firewall:
 ```bash
 wget -qO- https://raw.githubusercontent.com/mobonchain/Openledger/refs/heads/main/openledger.sh | sh
 ```
